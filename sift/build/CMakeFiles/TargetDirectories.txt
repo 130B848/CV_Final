@@ -1,0 +1,3 @@
+/home/marklee/CV_Final/sift/build/CMakeFiles/edit_cache.dir
+/home/marklee/CV_Final/sift/build/CMakeFiles/rebuild_cache.dir
+/home/marklee/CV_Final/sift/build/CMakeFiles/sift.dir
