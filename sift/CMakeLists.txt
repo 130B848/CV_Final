@@ -1,0 +1,7 @@
+set (CMAKE_CXX_STANDARD 11)
+cmake_minimum_required(VERSION 3.0)
+project( sift )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( sift sift.cpp )
+target_link_libraries( sift ${OpenCV_LIBS} )
