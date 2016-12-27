@@ -15,8 +15,6 @@ opencv2/xfeatures2d.hpp
 -
 fstream
 -
-algorithm
--
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h

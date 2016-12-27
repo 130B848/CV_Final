@@ -1,0 +1,3 @@
+/home/marklee/CV_Final/templatematch/build/CMakeFiles/edit_cache.dir
+/home/marklee/CV_Final/templatematch/build/CMakeFiles/rebuild_cache.dir
+/home/marklee/CV_Final/templatematch/build/CMakeFiles/template.dir
